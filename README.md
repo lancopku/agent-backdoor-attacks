@@ -2,7 +2,7 @@
 
 This is the repository containing the code and data for the paper *Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents* [[pdf](https://arxiv.org/pdf/2402.11208.pdf)]
 
-![](https://github.com/lancopku/agent-backdoor-attacks/blob/main/assets/demo.pdf)
+![](https://github.com/lancopku/agent-backdoor-attacks/blob/main/assets/demo.png)
 
 ---
 
