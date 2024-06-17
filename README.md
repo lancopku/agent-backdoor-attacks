@@ -15,5 +15,4 @@ The code for Query-Attack and Observation-Attack is in ```AgentTuning```.
 
 
 ## Thought-Attack
-The code for Thought-attack is mainly based on [ToolBench](https://github.com/OpenBMB/ToolBench). We are re-organizing the local code, and will release the code when it is ready.
-
+The code for Thought-attack is mainly based on [ToolBench](https://github.com/OpenBMB/ToolBench). We provide an instruction in ```ToolBench/README.md``` on how to use the poisoned data we provide.
