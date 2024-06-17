@@ -11,7 +11,7 @@ We have released the poisoned training data used in Web Shopping (put in [here](
 
 
 ## Query-Attack and Observation-Attack
-The code for Query-Attack and Observation-Attack is in ```Query/Observation-Attack```.
+The code for Query-Attack and Observation-Attack is in ```AgentTuning```.
 
 
 ## Thought-Attack
